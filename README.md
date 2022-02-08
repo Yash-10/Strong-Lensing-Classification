@@ -1,4 +1,4 @@
-# ML4SCI Hackathon 2021 - Strong Lensing Challenge
+# Classification of simulated strong lensing images
 
 This repository contains the solution submitted as a part of the [**classification**](https://github.com/ML4SCI/ML4SCIHackathon/tree/main/GravitationalLensingChallenge#challenge-1---multi-class-classification) challenge under the [Strong Lensing Challenge](https://github.com/ML4SCI/ML4SCIHackathon/tree/main/GravitationalLensingChallenge).
 
